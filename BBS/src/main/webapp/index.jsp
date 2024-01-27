@@ -9,8 +9,6 @@
 <title>JSP 게시판 웹 사이트</title>
 </head>
 <body>
-	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-	<script src="js/bootstrap.js"></script>
-	hello world
+	location.href = 'main.jsp';
 </body>
 </html>
